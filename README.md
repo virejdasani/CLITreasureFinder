@@ -3,4 +3,4 @@ The Command Line Treasure Finder app
 
 Find the treasure to win!
 
-### Run `java treasure.java` to start 👍
+### Run `java main.java` or execute main.class to start 👍
